@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">twicca Twistar plug-in</string>
+	<string name="label_open_hoge">Open Twistar</string>
+	<string name="plugin_name">Twistar</string>
+	<string name="label_tabs">Tabs</string><string-array name="tabs">
+		<item>recent</item>
+		<item>popular</item>
+		<item>picks</item>
+		<item>faved</item>
+		<item>favs</item>
+	</string-array>
+	
+</resources>
